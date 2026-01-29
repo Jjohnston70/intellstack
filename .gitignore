@@ -1,0 +1,18 @@
+# Exclude Archive folder
+Archive/
+
+# Exclude Future Todos folder (internal planning)
+Future Todos/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+~$*
