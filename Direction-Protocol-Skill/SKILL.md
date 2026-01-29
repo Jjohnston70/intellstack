@@ -5,7 +5,7 @@ version: 2.0
 last_updated: 2026-01-28
 ---
 
-# TNDS Direction Protocol Skill
+# TNDS Direction Protocol™ Skill
 
 A structured, five-stage sales process for taking prospects from initial contact through signed engagement. Protects both TNDS and clients from bad-fit engagements.
 
@@ -745,4 +745,16 @@ This skill is successful when:
 
 **END OF SKILL**
 
-*Direction Protocol gets you clarity. Command Protocol gets you control. That's how we turn data into direction.*
+*Direction Protocol™ gets you clarity. Command Protocol™ gets you control. That's how we turn data into direction.*
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Direction Protocol™ and Command Protocol™ are trademarks of True North Data Strategies LLC.*

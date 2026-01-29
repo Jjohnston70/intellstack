@@ -284,41 +284,66 @@ b) [Assumption 2]
 
 ### Section 9: Intellectual Property
 
-**Purpose:** Clarify who owns what.
+**Purpose:** Clarify who owns what and protect proprietary methodology.
 
 **Content:**
-- Client ownership of deliverables
-- Provider ownership of methodology
-- License for any Provider tools used
+- Client license to use deliverables (not ownership of methodology)
+- Provider ownership of all methodology, frameworks, and IP
+- Distinction between deliverables and methodology
+- Trademark acknowledgment
 
 **Example:**
 
 > **9. Intellectual Property**
 >
-> **9.1 Client Ownership:** Upon final payment, Client owns all deliverables created specifically for Client.
+> **9.1 Client License:** Upon final payment, Client receives a perpetual, non-exclusive, non-transferable license to use the deliverables created specifically for Client in Client's business operations.
 >
-> **9.2 Provider Methodology:** Provider retains ownership of pre-existing methodologies, frameworks, and tools used in delivery.
+> **9.2 Provider Intellectual Property:** Provider retains all right, title, and ownership interest in:
+> a) All pre-existing methodologies, frameworks, processes, and tools
+> b) Direction Protocol™, Command Protocol™, Battle Rhythm Install™, Command Center Build™, Bearing Check™, World Model Mapper™, ARO Assessment™, and all related trademarks
+> c) All scoring systems, rubrics, assessment frameworks, and diagnostic tools
+> d) All templates, scripts, and standardized processes
+> e) Any general knowledge, techniques, or know-how developed during this engagement
 >
-> **9.3 License:** Client receives perpetual license to use any Provider tools incorporated into deliverables.
+> **9.3 Deliverables vs. Methodology:** Client acknowledges that the deliverables are implementations of Provider's proprietary methodology. Client receives a license to use the deliverables but does not acquire any rights to the underlying methodology, which remains the exclusive property of Provider.
+>
+> **9.4 No Reverse Engineering:** Client agrees not to reverse engineer, decompile, or attempt to extract the underlying methodology, frameworks, or processes from the deliverables.
+>
+> **9.5 Trademark Acknowledgment:** Client acknowledges that Direction Protocol™, Command Protocol™, Battle Rhythm Install™, Command Center Build™, Bearing Check™, World Model Mapper™, and ARO Assessment™ are trademarks of True North Data Strategies LLC and agrees not to use these marks without prior written consent.
 
 ---
 
 ### Section 10: Confidentiality
 
-**Purpose:** Protect both parties' information.
+**Purpose:** Protect both parties' information and proprietary methodology.
 
 **Content:**
 - Definition of confidential information
+- Enhanced protection for Provider methodology
 - Obligations of both parties
 - Exceptions
+- Survival of obligations
 
 **Example:**
 
 > **10. Confidentiality**
 >
-> Each party agrees to keep confidential any proprietary information received from the other party, including but not limited to business processes, financial information, and technical specifications. This obligation survives termination of this Agreement.
+> **10.1 Definition:** "Confidential Information" means any proprietary information disclosed by either party, including but not limited to business processes, financial information, technical specifications, customer data, and trade secrets.
 >
-> **Exceptions:** Information that is publicly available, independently developed, or required by law to disclose.
+> **10.2 Provider Trade Secrets:** Client specifically acknowledges that Provider's methodologies, frameworks, scoring systems, assessment rubrics, pricing models, process templates, and all materials marked as proprietary constitute trade secrets of Provider. Client shall not disclose, publish, or otherwise reveal these materials to any third party.
+>
+> **10.3 Mutual Obligations:** Each party agrees to:
+> a) Keep Confidential Information strictly confidential
+> b) Use Confidential Information only for purposes of this Agreement
+> c) Limit disclosure to employees with a need to know
+> d) Protect Confidential Information with at least the same degree of care as its own
+>
+> **10.4 Exceptions:** Confidentiality obligations do not apply to information that:
+> a) Is or becomes publicly available through no fault of receiving party
+> b) Was independently developed without use of Confidential Information
+> c) Is required by law to disclose (with notice to disclosing party)
+>
+> **10.5 Survival:** Confidentiality obligations survive termination of this Agreement for a period of five (5) years, except for trade secrets which remain confidential indefinitely.
 
 ---
 
@@ -483,4 +508,16 @@ This template is provided for informational purposes only and does not constitut
 **Document Status:** Active
 **Next Review:** After 10 agreements created
 **Feedback:** Note which terms generate most client questions
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Direction Protocol™, Command Protocol™, Battle Rhythm Install™, Command Center Build™, Bearing Check™, World Model Mapper™, and ARO Assessment™ are trademarks of True North Data Strategies LLC.*
 

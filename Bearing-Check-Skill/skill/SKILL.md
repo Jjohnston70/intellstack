@@ -3,7 +3,7 @@ name: bearing-check
 description: The Bearing Check - an eight-checkpoint decision framework for validating strategies, investments, career moves, and life choices before committing resources. Use when analyzing "should I do X" questions, evaluating success stories or advice, vetting business strategies, assessing opportunities with uncertainty, or when the user wants to avoid survivorship bias and think probabilistically. Triggers on phrases like "should I", "is this a good idea", "evaluate this strategy", "what are the risks", "copy this approach", or requests to pressure-test a decision.
 ---
 
-# The Bearing Check
+# The Bearing Check™
 
 A systematic framework for validating decisions under uncertainty. Before you commit to a heading, verify your position against multiple reference points.
 
@@ -123,3 +123,15 @@ When running a decision through this framework, structure the analysis:
 For detailed explanations and examples of each checkpoint, see [references/checkpoints.md](references/checkpoints.md).
 
 For the cognitive biases this framework addresses (survivorship bias, winner's curse, gambling bias, etc.), see [references/cognitive-biases.md](references/cognitive-biases.md).
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*The Bearing Check™ is a trademark of True North Data Strategies LLC.*

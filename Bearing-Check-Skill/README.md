@@ -315,3 +315,15 @@ Bearing Check connects with other TNDS skills:
 **Next Review:** Quarterly
 **Feedback:** Submit suggestions for improvement to skill maintainer
 
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Bearing Check™, Direction Protocol™, Command Protocol™, and World Model Mapper™ are trademarks of True North Data Strategies LLC.*
+

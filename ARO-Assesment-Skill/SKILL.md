@@ -3,7 +3,7 @@ name: aro-assessment
 description: Agent-Ready Operations Assessment framework for evaluating and optimizing client operations for AI agent effectiveness. Use when conducting ARO assessments, scoring client operations, generating Context Architecture Reports, building implementation roadmaps, or creating Context Graphs. Triggers on phrases like "ARO assessment," "agent-ready operations," "context graph," "AI legibility audit," "context architecture," or when evaluating how well a client's operations support AI tools.
 ---
 
-# ARO Assessment Skill
+# ARO Assessment™ Skill
 
 A structured framework for evaluating how "AI-legible" a client's operations are and producing deliverables that help them become agent-ready.
 
@@ -217,3 +217,15 @@ Before delivering:
 - `templates/context-graph-template.md` - Full Context Graph structure
 - `templates/context-architecture-report.md` - Report outline
 - `templates/implementation-roadmap.md` - Roadmap structure
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*ARO Assessment™ (Agent-Ready Operations) is a trademark of True North Data Strategies LLC.*

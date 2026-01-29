@@ -3,7 +3,7 @@ name: command-protocol
 description: TNDS Command Protocol - Complete client delivery process from contract signing through go-live and ongoing support. Use when implementing Command modules, running through delivery phases, creating client documentation, setting up Google Apps Script projects, configuring automations, conducting training, or managing post-launch support. Triggers on phrases like "client delivery", "implement for client", "install module", "set up command center", "build for client", "training session", "go-live", "post-launch", "Command Protocol", "technical setup", or when transitioning from Direction Protocol to delivery. Integrates with the module installer at the 10_COMMANDS path for standardized deployments.
 ---
 
-# TNDS Command Protocol Skill
+# TNDS Command Protocol™ Skill
 
 A structured, twelve-phase delivery process for implementing Command modules and putting clients in command of their operations.
 
@@ -436,4 +436,16 @@ COMMAND PROTOCOL (Delivery) ← THIS SKILL
 
 ---
 
-*Direction Protocol gets you clarity. Command Protocol gets you control. That's how we turn data into direction.*
+*Direction Protocol™ gets you clarity. Command Protocol™ gets you control. That's how we turn data into direction.*
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Command Protocol™, Direction Protocol™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.*

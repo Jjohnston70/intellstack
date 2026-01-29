@@ -736,3 +736,15 @@ IDEA → Bearing Check → GO? → Direction/ARO/WorldModel → Command → Docu
 **Version:** 1.0
 **Last Updated:** January 29, 2026
 **Maintainer:** True North Data Strategies
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.*

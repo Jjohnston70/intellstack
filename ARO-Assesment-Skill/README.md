@@ -277,3 +277,15 @@ For questions about this skill:
 
 *True North Data Strategies | Agent-Ready Operations Framework*
 *Last Updated: January 28, 2026*
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*ARO Assessment™, Direction Protocol™, and Command Protocol™ are trademarks of True North Data Strategies LLC.*

@@ -3,7 +3,7 @@ name: world-model-mapper
 description: Guided framework for mapping business processes, systems, or modules against world model principles. Use when analyzing Command modules, client processes, or any operational system to reveal gaps in state capture, action mapping, transition modeling, and feedback loops. Triggers on phrases like "map this process," "analyze this system," "find the gaps," "world model analysis," "state space mapping," or when building/evaluating Command Center modules.
 ---
 
-# World Model Mapper
+# World Model Mapper™
 
 A structured interrogation framework that stress-tests any business process or system against world model principles — revealing where state capture is weak, where actions aren't mapped to decisions, where predictions lack grounding, and where feedback loops are broken.
 
@@ -201,3 +201,15 @@ Before finalizing, verify:
 4. Low: Customer notification automation
 
 **Next Step:** Implement GPS tracking on tech vehicles, log arrival timestamps automatically.
+
+---
+
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*World Model Mapper™ is a trademark of True North Data Strategies LLC.*

@@ -625,4 +625,16 @@ Whether creating client-facing proposals or internal SOPs, the TNDS Documentatio
 
 ---
 
+## Confidentiality Notice
+
+This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
+
+*Direction Protocol™, Command Protocol™, Battle Rhythm Install™, Command Center Build™, Bearing Check™, World Model Mapper™, and ARO Assessment™ are trademarks of True North Data Strategies LLC.*
+
+---
+
 **END OF README**
