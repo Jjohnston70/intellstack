@@ -234,3 +234,15 @@ Translate. Instead of "state space" say "the information you need to make decisi
 4. **The Gap Is the Opportunity** — Don't be discouraged by missing state, broken loops, or weak predictions. That's exactly what you're building to fix.
 
 5. **Start Concrete** — Pick one process, one decision, one prediction. Map it fully. Then expand.
+
+---
+
+## Legal
+
+**Confidentiality Notice:** This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+**Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.

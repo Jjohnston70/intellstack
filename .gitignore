@@ -4,6 +4,12 @@ Archive/
 # Exclude Future Todos folder (internal planning)
 Future Todos/
 
+# Trade Secrets - internal folders contain proprietary implementation details
+**/internal/
+
+# Legal templates (drafts requiring review)
+docs/legal/
+
 # OS files
 .DS_Store
 Thumbs.db

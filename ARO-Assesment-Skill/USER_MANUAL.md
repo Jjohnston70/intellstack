@@ -497,3 +497,15 @@ Always present both paths: "Here's what it would look like if you implement this
 - **Handoff guidance:** See [HANDOFF-PROTOCOL.md](HANDOFF-PROTOCOL.md)
 - **Service recommendations:** See [ARO-COMMAND-INTEGRATION.md](ARO-COMMAND-INTEGRATION.md)
 - **Sales training:** See [SALES-TRAINING.md](SALES-TRAINING.md)
+
+---
+
+## Legal
+
+**Confidentiality Notice:** This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+**Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.

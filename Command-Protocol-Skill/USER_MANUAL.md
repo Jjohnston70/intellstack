@@ -449,3 +449,15 @@ Try these trigger phrases:
 ---
 
 *Direction Protocol gets you clarity. Command Protocol gets you control. That's how we turn data into direction.*
+
+---
+
+## Legal
+
+**Confidentiality Notice:** This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
+
+**Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
+
+---
+
+© 2026 True North Data Strategies LLC. All rights reserved.
