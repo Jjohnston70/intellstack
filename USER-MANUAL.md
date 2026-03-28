@@ -747,4 +747,4 @@ This document contains proprietary methodology and trade secrets of True North D
 
 © 2026 True North Data Strategies LLC. All rights reserved.
 
-*Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.*
+*Direction Protocol, Command Protocol, Bearing Check, World Model Mapper, ARO Assessment, Battle Rhythm Install, and Command Center Build are Processes used by True North Data Strategies LLC.*
