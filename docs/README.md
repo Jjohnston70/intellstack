@@ -24,13 +24,6 @@ The `legal/` subfolder contains draft legal templates for IP protection. These a
 - `IP-CLAUSES-CONTRACTOR.md` - Work-for-hire and IP assignment clauses
 
 **Important:** All templates require attorney review before use.
-
 ---
 
-## Confidentiality Notice
-
-This documentation and the associated legal templates contain proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.

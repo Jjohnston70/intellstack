@@ -201,15 +201,8 @@ Before finalizing, verify:
 4. Low: Customer notification automation
 
 **Next Step:** Implement GPS tracking on tech vehicles, log arrival timestamps automatically.
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *World Model Mapper™ is a trademark of True North Data Strategies LLC.*

@@ -5,7 +5,7 @@
 **Command-Post** is the TNDS Claude Skills framework - a collection of proprietary consulting methodologies implemented as AI-assisted skills.
 
 **Owner:** True North Data Strategies LLC
-**Copyright:** 2026 True North Data Strategies LLC. All rights reserved.
+**Copyright:** 2026 True North Data Strategies LLC. Licensed under MIT.
 
 ---
 

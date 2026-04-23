@@ -36,7 +36,7 @@ financial-command modules. Walk me through Phase 1."
 
 **Creating documentation:**
 ```
-"Create user documentation for the Smith Electric Command Center."
+"Create user documentation for the Acme Services Command Center."
 ```
 
 **Troubleshooting:**
@@ -50,7 +50,7 @@ financial-command modules. Walk me through Phase 1."
 
 ### Location
 ```
-C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\client-google-apps-module-setup
+<path-to-command-modules>/client-google-apps-module-setup
 ```
 
 ### How to Use
@@ -433,7 +433,7 @@ Try these trigger phrases:
 
 | Resource | Location |
 |----------|----------|
-| Module Installer | `C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\client-google-apps-module-setup` |
+| Module Installer | `<path-to-command-modules>/client-google-apps-module-setup` |
 | Client Folders | Google Drive: `[Client Name] Command Center/` |
 | Templates | `10_COMMANDS\templates\` |
 | Email Templates | `10_COMMANDS\email-templates\` |
@@ -454,10 +454,8 @@ Try these trigger phrases:
 
 ## Legal
 
-**Confidentiality Notice:** This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
 **Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
 
 ---
 
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.

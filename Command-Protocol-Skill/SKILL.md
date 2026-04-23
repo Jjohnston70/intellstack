@@ -16,7 +16,7 @@ We don't just build systems. We put clients in command of their operations.
 ## Module Installer Location
 
 ```
-C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\client-google-apps-module-setup
+<path-to-command-modules>/client-google-apps-module-setup
 ```
 
 This installer contains templates and setup scripts for all Command modules. Reference it during Phase 4 (Development) for standardized deployments.
@@ -147,7 +147,7 @@ This installer contains templates and setup scripts for all Command modules. Ref
 
 1. **Navigate to Installer:**
    ```
-   C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\client-google-apps-module-setup
+   <path-to-command-modules>/client-google-apps-module-setup
    ```
 
 2. **Create Apps Script Project:**
@@ -376,7 +376,7 @@ DIRECTION PROTOCOL (Sales)
 COMMAND PROTOCOL (Delivery) ← THIS SKILL
         │
         ├── Phase 4 (Development): Use MODULE INSTALLER
-        │   C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\
+        │   <path-to-command-center>\10_COMMANDS\
         │   client-google-apps-module-setup
         │
         ├── Phase 8 (Documentation): Use DOCUMENTATION skill
@@ -437,15 +437,8 @@ COMMAND PROTOCOL (Delivery) ← THIS SKILL
 ---
 
 *Direction Protocol™ gets you clarity. Command Protocol™ gets you control. That's how we turn data into direction.*
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *Command Protocol™, Direction Protocol™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.*

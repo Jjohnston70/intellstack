@@ -458,10 +458,8 @@ Even great fits need the full process to scope correctly.
 
 ## Legal
 
-**Confidentiality Notice:** This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
 **Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
 
 ---
 
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.

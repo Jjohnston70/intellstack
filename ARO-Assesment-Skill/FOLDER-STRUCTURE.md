@@ -67,7 +67,7 @@ TNDS-Command-Center/
 **Naming Convention:** `[Client-Name]-ARO-Assessment/`
 - Use client's business name (not contact name)
 - Replace spaces with hyphens
-- Example: `Chief-Petroleum-ARO-Assessment/`
+- Example: `Acme-Industrial-ARO-Assessment/`
 
 **What Goes Here:**
 - Intake questionnaire responses
@@ -184,7 +184,7 @@ TNDS-Command-Center/
 
 **Naming Convention:** `[Year]/[Client-Name]-ARO-NoResponse/`
 - Year is when archived
-- Example: `2026/Smith-Plumbing-ARO-NoResponse/`
+- Example: `2026/Acme-Plumbing-ARO-NoResponse/`
 
 **What Goes Here:**
 - All assessment files (moved from 20_PROSPECTS)
@@ -271,8 +271,8 @@ TNDS-Command-Center/
    - Bad: `Context Architecture Report.md`
 
 2. **Client folders use Title-Case with hyphens**
-   - Good: `Chief-Petroleum-ARO-Assessment/`
-   - Bad: `chief petroleum aro assessment/`
+   - Good: `Acme-Industrial-ARO-Assessment/`
+   - Bad: `acme industrial aro assessment/`
 
 3. **Dates when needed use YYYY-MM-DD**
    - Good: `discovery-notes-2026-01-28.md`

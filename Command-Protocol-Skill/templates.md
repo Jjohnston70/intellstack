@@ -349,7 +349,7 @@ disable-model-invocation: true
 
 1. **Navigate to Module Installer:**
    ```
-   C:\Users\truenorth\Desktop\TNDS-Command-Center\10_COMMANDS\client-google-apps-module-setup
+   <path-to-command-modules>/client-google-apps-module-setup
    ```
 
 2. **Required Files:**

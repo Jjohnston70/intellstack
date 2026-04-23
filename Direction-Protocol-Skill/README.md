@@ -699,16 +699,9 @@ SBA-Certified VOSB/SDVOSB
 ---
 
 **Remember**: Direction Protocol™ gets you clarity. Command Protocol™ gets you control. That's how we turn data into direction.
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *Direction Protocol™, Command Protocol™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.*
 

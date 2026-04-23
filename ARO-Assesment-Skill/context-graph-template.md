@@ -263,7 +263,7 @@ Claude:
 > **Agent Instruction:** Know where everything lives. Don't recreate existing assets. This engagement may use one or more documentation systems depending on complexity.
 
 ### Project Folders
-- **Local Path:** [C:\Users\truenorth\Desktop\TNDS-Command-Center\30_ACTIVE_CLIENTS\[Client-Folder]]
+- **Local Path:** [<path-to-command-center>/30_ACTIVE_CLIENTS/[Client-Folder]]
 - **Google Drive:** [Link if applicable]
 - **GitHub Repo:** [Link if applicable]
 

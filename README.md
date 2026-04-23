@@ -1,208 +1,99 @@
-# TNDS Claude Skills
+<div align="center">
 
-**Version:** 1.0
-**Last Updated:** January 29, 2026
-**Status:** Production Ready
+# True North Intelligence
+### Operator-Grade Skills Framework for Service Business Operations
 
----
+[![Docs](https://img.shields.io/badge/Docs-Methodology-lightgrey?style=for-the-badge)](README.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![TNDS](https://img.shields.io/badge/TNDS-truenorthstrategyops.com-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
-## What This Is
+<img src="tnds-logo.png" alt="True North Intelligence" width="260" />
 
-This is the complete Claude Skills library for True North Data Strategies. These skills enable Claude to assist with the full TNDS business lifecycle—from decision validation through client delivery.
+</div>
 
----
+## What this is
 
-## The Six Skills
+Six interlocking skills that run the full lifecycle of a TNDS engagement — from go/no-go decisions through discovery, sales, delivery, and documentation. Each skill is a methodology plus prompts, templates, and workflows a Claude-powered agent can follow step-by-step.
 
-| Skill | Purpose | Primary Use |
-|-------|---------|-------------|
-| [Bearing Check](Bearing-Check-Skill/) | Decision validation framework | Before any major commitment |
-| [ARO Assessment](ARO-Assesment-Skill/) | Agent-Ready Operations evaluation | AI/automation fit assessment |
-| [World Model Mapper](World-Model-Mapper-Skill/) | Deep process analysis | Discovery and problem diagnosis |
-| [Direction Protocol](Direction-Protocol-Skill/) | Client acquisition process | Sales conversations |
-| [Command Protocol](Command-Protocol-Skill/) | Client delivery process | Post-sale implementation |
-| [Documentation](Documentation-Skill/) | Professional document creation | Deliverables and SOPs |
+Built for operators running small service businesses or consulting engagements. Not a marketing framework. Not theory. The playbook Jacob uses daily.
 
----
+## What it does
 
-## Quick Start
+- **Bearing Check** — 8-checkpoint decision validation. Runs before any major commitment.
+- **ARO Assessment** — Agent-Ready Operations evaluation. Scores AI/automation fit.
+- **World Model Mapper** — 5-phase process mapping. Surfaces the gap between the stated process and the real one.
+- **Direction Protocol** — 5-stage sales process: IDENTIFY, DIAGNOSE, DESIGN, PROPOSE, CLOSE.
+- **Command Protocol** — 12-phase delivery system. Turns a signed agreement into a shipped Command Center.
+- **Documentation Skill** — Generates proposals, agreements, SOPs, and client-facing deliverables.
 
-### Which Skill Do I Need?
-
-| If you're asking... | Use this skill |
-|---------------------|----------------|
-| "Should I pursue this opportunity?" | **Bearing Check** |
-| "How AI-ready is this operation?" | **ARO Assessment** |
-| "What's really happening in this process?" | **World Model Mapper** |
-| "How do I close this prospect?" | **Direction Protocol** |
-| "How do I deliver for this client?" | **Command Protocol** |
-| "How do I create this document?" | **Documentation** |
-
-### Typical Workflows
-
-**New Opportunity:**
-```
-Bearing Check → Direction Protocol → Command Protocol → Documentation
-```
-
-**Complex Client Discovery:**
-```
-Direction Protocol (MAP) → World Model Mapper → Documentation (Proposal)
-```
-
-**AI Readiness Evaluation:**
-```
-ARO Assessment → Direction Protocol (if fit) → Command Protocol
-```
-
----
-
-## Project Structure
+## How it works
 
 ```
-Claude ai Skills/
-├── README.md                    ← You are here
-├── USER-MANUAL.md               ← Comprehensive usage guide
-├── WORKFLOW_INTEGRATION.md      ← How skills work together
-│
-├── Bearing-Check-Skill/         ← Decision validation (8 checkpoints)
-│   ├── skill/                   ← Core skill files
-│   └── [implementation docs]
-│
-├── ARO-Assesment-Skill/         ← AI readiness assessment
-│   ├── templates/               ← Client folder templates
-│   └── [implementation docs]
-│
-├── World-Model-Mapper-Skill/    ← Process analysis (5 phases)
-│   └── [implementation docs]
-│
-├── Direction-Protocol-Skill/    ← Sales process (5 stages)
-│   └── [implementation docs]
-│
-├── Command-Protocol-Skill/      ← Delivery process (12 phases)
-│   └── [implementation docs]
-│
-├── Documentation-Skill/         ← Document creation
-│   └── [implementation docs]
-│
-└── Testing/                     ← Test cases
+                    ┌─────────────────┐
+                    │  Bearing Check  │  decision gate
+                    └────────┬────────┘
+                             │
+         ┌───────────────────┼───────────────────┐
+         │                   │                   │
+         ▼                   ▼                   ▼
+   ┌──────────┐       ┌────────────┐       ┌──────────┐
+   │   ARO    │──────▶│  Direction │──────▶│  Command │
+   │Assessment│       │  Protocol  │       │ Protocol │
+   └──────────┘       └──────┬─────┘       └─────┬────┘
+        │                    │                   │
+        └────────────────────┼───────────────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │  Documentation  │  deliverables
+                    └─────────────────┘
+
+            World Model Mapper runs underneath
+            any skill that needs process depth.
 ```
 
----
+## Quick start
 
-## Key Documents
+This repo is documentation. Clone it, then point Claude Code, Claude Desktop, or any Claude-powered agent at the skill folder you need:
 
-### Start Here
-- [WORKFLOW_INTEGRATION.md](WORKFLOW_INTEGRATION.md) — How all 6 skills connect
-- [USER-MANUAL.md](USER-MANUAL.md) — Complete usage guide
-
-### Per-Skill Navigation
-Each skill folder contains a README.md with its own navigation and quick start guide.
-
----
-
-## How Skills Connect
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                      TNDS SKILL ECOSYSTEM                           │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   DECISION LAYER                                                    │
-│   ┌─────────────────┐                                               │
-│   │ BEARING CHECK   │ "Should we pursue this?"                      │
-│   │ (Gatekeeper)    │ GO / NO-GO / CONDITIONAL                      │
-│   └────────┬────────┘                                               │
-│            │                                                        │
-│   ANALYSIS LAYER                                                    │
-│   ┌────────▼────────┐    ┌─────────────────┐                       │
-│   │ WORLD MODEL     │    │ ARO ASSESSMENT  │                       │
-│   │ MAPPER          │    │ (AI Readiness)  │                       │
-│   │ (How it works)  │    └─────────────────┘                       │
-│   └────────┬────────┘                                               │
-│            │                                                        │
-│   EXECUTION LAYER                                                   │
-│   ┌────────▼────────┐    ┌─────────────────┐                       │
-│   │ DIRECTION       │───►│ COMMAND         │                       │
-│   │ PROTOCOL (Sales)│    │ PROTOCOL (Deliver│                      │
-│   └─────────────────┘    └─────────────────┘                       │
-│            │                      │                                 │
-│   OUTPUT LAYER                    │                                 │
-│   ┌───────────────────────────────▼─────────────────────┐          │
-│   │              DOCUMENTATION                           │          │
-│   │  Proposals, Agreements, SOPs, Training, Specs        │          │
-│   └─────────────────────────────────────────────────────┘          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+```bash
+git clone https://github.com/TNDS-Command-Center/True-North-Intelligence.git
+cd True-North-Intelligence
 ```
 
----
+Each skill has its own `SKILL.md` and `USER_MANUAL.md`. Read the SKILL.md first — that is the contract. The USER_MANUAL shows it in use.
 
-## Skill Trigger Phrases
+| Asking... | Use |
+|---|---|
+| Should I pursue this? | Bearing Check |
+| How AI-ready is this operation? | ARO Assessment |
+| What's really happening in this process? | World Model Mapper |
+| How do I close this prospect? | Direction Protocol |
+| How do I deliver for this client? | Command Protocol |
+| How do I create this document? | Documentation |
 
-Quick reference for invoking each skill:
+## Project structure
 
-### Bearing Check
-- "Should I..."
-- "Run a bearing check on..."
-- "What are the risks?"
-- "Give me the graveyard recon"
+```
+True-North-Intelligence/
+├── ARO-Assesment-Skill/         Agent-readiness scoring + context architecture
+├── Bearing-Check-Skill/         Decision validation framework
+├── Command-Protocol-Skill/      Delivery / implementation system
+├── Direction-Protocol-Skill/    Sales process (IDENTIFY → CLOSE)
+├── Documentation-Skill/         Proposal / agreement / SOP generator
+├── World-Model-Mapper-Skill/    Process mapping, feedback loops, shadow vs. reality
+├── docs/                        Public-facing documentation
+├── CLAUDE.md                    Agent-facing project context
+├── README.md                    This file
+├── USER-MANUAL.md               End-user walkthrough
+└── WORKFLOW_INTEGRATION.md      How the skills chain together
+```
 
-### ARO Assessment
-- "ARO assessment"
-- "How AI-ready is..."
-- "Context graph for..."
+## License
 
-### World Model Mapper
-- "Map the process"
-- "What's really happening?"
-- "Find the shadow processes"
+MIT — see [LICENSE](LICENSE).
 
-### Direction Protocol
-- "Prospect call prep"
-- "Sales conversation"
-- "Qualify this lead"
+Framework names (Direction Protocol, Command Protocol, Bearing Check, World Model Mapper, ARO Assessment, Battle Rhythm Install, Command Center Build) are trademarks of True North Data Strategies LLC.
 
-### Command Protocol
-- "Client delivery"
-- "Run through Phase [X]"
-- "Set up command center"
+## Built by
 
-### Documentation
-- "Create a proposal for..."
-- "Create SOP for..."
-- "Make this professional"
-
----
-
-## Version History
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0 | 2026-01-29 | Initial release with all 6 skills implemented |
-
----
-
-## Support
-
-For questions or issues:
-- Review the [USER-MANUAL.md](USER-MANUAL.md)
-- Check skill-specific README files
-- Contact True North Data Strategies
-
----
-
-**Status:** Production Ready
-**Maintainer:** True North Data Strategies
-
----
-
-## Legal
-
-**Confidentiality Notice:** This repository contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
-**Trademarks:** Direction Protocol™, Command Protocol™, Bearing Check™, World Model Mapper™, ARO Assessment™, Battle Rhythm Install™, and Command Center Build™ are trademarks of True North Data Strategies LLC.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+Jacob Johnston | True North Data Strategies LLC | SDVOSB

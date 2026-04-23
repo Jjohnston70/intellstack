@@ -217,15 +217,8 @@ Before delivering:
 - `templates/context-graph-template.md` - Full Context Graph structure
 - `templates/context-architecture-report.md` - Report outline
 - `templates/implementation-roadmap.md` - Roadmap structure
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *ARO Assessment™ (Agent-Ready Operations) is a trademark of True North Data Strategies LLC.*

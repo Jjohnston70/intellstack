@@ -622,16 +622,9 @@ Whether creating client-facing proposals or internal SOPs, the TNDS Documentatio
 **Contact**: Jacob Johnston | 719-204-6365 | jacob@truenorthstrategyops.com
 
 **Company**: True North Data Strategies • Colorado Springs, CO
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *Direction Protocol™, Command Protocol™, Battle Rhythm Install™, Command Center Build™, Bearing Check™, World Model Mapper™, and ARO Assessment™ are trademarks of True North Data Strategies LLC.*
 

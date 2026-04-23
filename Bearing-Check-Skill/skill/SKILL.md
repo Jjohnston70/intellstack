@@ -123,15 +123,8 @@ When running a decision through this framework, structure the analysis:
 For detailed explanations and examples of each checkpoint, see [references/checkpoints.md](references/checkpoints.md).
 
 For the cognitive biases this framework addresses (survivorship bias, winner's curse, gambling bias, etc.), see [references/cognitive-biases.md](references/cognitive-biases.md).
-
 ---
 
-## Confidentiality Notice
-
-This document contains proprietary methodology and trade secrets of True North Data Strategies LLC. Unauthorized reproduction, distribution, or disclosure is prohibited.
-
----
-
-© 2026 True North Data Strategies LLC. All rights reserved.
+© 2026 True North Data Strategies LLC. Licensed under MIT — see LICENSE.
 
 *The Bearing Check™ is a trademark of True North Data Strategies LLC.*
