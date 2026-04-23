@@ -1,8 +1,8 @@
-# TNDS Claude Skills User Manual
+# IntellStack User Manual
 
 **Version:** 1.0
 **Last Updated:** January 29, 2026
-**Purpose:** Complete guide to using the TNDS Claude Skills system
+**Purpose:** Complete guide to using the IntellStack skills framework
 
 ---
 

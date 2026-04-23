@@ -1,15 +1,15 @@
-# Command-Post Progress Tracker
+# IntellStack Progress Tracker
 
-**Project:** TNDS Claude Skills Framework (Command-Post)
+**Project:** IntellStack (internal codename: Command-Post)
 **Owner:** True North Data Strategies LLC
-**Repository:** TNDS-Command-Center/Command-Post
+**Repository:** TNDS-Command-Center/IntellStack
 **Branch:** `feature/ip-protection` (pending merge to `master`)
 
 ---
 
 ## Purpose
 
-This file tracks implementation progress for the Command-Post project - the TNDS Claude Skills framework containing proprietary consulting methodologies.
+This file tracks implementation progress for IntellStack — TNDS's skills framework containing proprietary consulting methodologies.
 
 ---
 

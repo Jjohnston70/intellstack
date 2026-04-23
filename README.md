@@ -1,13 +1,13 @@
 <div align="center">
 
-# True North Intelligence
+# IntellStack
 ### Operator-Grade Skills Framework for Service Business Operations
 
 [![Docs](https://img.shields.io/badge/Docs-Methodology-lightgrey?style=for-the-badge)](README.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![TNDS](https://img.shields.io/badge/TNDS-truenorthstrategyops.com-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
-<img src="tnds-logo.png" alt="True North Intelligence" width="260" />
+<img src="intellstack.png" alt="IntellStack" width="260" />
 
 </div>
 
@@ -56,8 +56,8 @@ Built for operators running small service businesses or consulting engagements. 
 This repo is documentation. Clone it, then point Claude Code, Claude Desktop, or any Claude-powered agent at the skill folder you need:
 
 ```bash
-git clone https://github.com/TNDS-Command-Center/True-North-Intelligence.git
-cd True-North-Intelligence
+git clone https://github.com/TNDS-Command-Center/IntellStack.git
+cd IntellStack
 ```
 
 Each skill has its own `SKILL.md` and `USER_MANUAL.md`. Read the SKILL.md first — that is the contract. The USER_MANUAL shows it in use.
@@ -74,7 +74,7 @@ Each skill has its own `SKILL.md` and `USER_MANUAL.md`. Read the SKILL.md first 
 ## Project structure
 
 ```
-True-North-Intelligence/
+IntellStack/
 ├── ARO-Assesment-Skill/         Agent-readiness scoring + context architecture
 ├── Bearing-Check-Skill/         Decision validation framework
 ├── Command-Protocol-Skill/      Delivery / implementation system

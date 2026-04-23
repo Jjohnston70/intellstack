@@ -1,4 +1,4 @@
-# TNDS Claude Skills Workflow Integration Guide
+# IntellStack Workflow Integration Guide
 
 **Version:** 1.1
 **Last Updated:** January 29, 2026

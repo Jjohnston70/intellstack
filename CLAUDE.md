@@ -1,8 +1,8 @@
-# Command-Post Project Instructions
+# IntellStack Project Instructions
 
 ## Project Overview
 
-**Command-Post** is the TNDS Claude Skills framework - a collection of proprietary consulting methodologies implemented as AI-assisted skills.
+**IntellStack** is TNDS's skills framework — a collection of proprietary consulting methodologies implemented as AI-assisted skills. Internal codename: Command-Post.
 
 **Owner:** True North Data Strategies LLC
 **Copyright:** 2026 True North Data Strategies LLC. Licensed under MIT.
